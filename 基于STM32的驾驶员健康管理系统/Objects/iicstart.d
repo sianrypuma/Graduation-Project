@@ -1,0 +1,13 @@
+.\objects\iicstart.o: SYSTEM\iic\iicStart.c
+.\objects\iicstart.o: SYSTEM\iic\iicStart.h
+.\objects\iicstart.o: .\USER\stm32f10x.h
+.\objects\iicstart.o: .\CORE\core_cm3.h
+.\objects\iicstart.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\iicstart.o: .\USER\system_stm32f10x.h
+.\objects\iicstart.o: .\USER\stm32f10x_conf.h
+.\objects\iicstart.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\iicstart.o: .\USER\stm32f10x.h
+.\objects\iicstart.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\iicstart.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\iicstart.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\iicstart.o: .\STM32F10x_FWLib\inc\misc.h
